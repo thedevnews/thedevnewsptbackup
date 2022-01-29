@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ww1.thedevnews.ga/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www1.thedevnews.ga/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://ww1.thedevnews.ga/</loc>
+<loc>https://www1.thedevnews.ga/</loc>
 </url>
 <url>
-<loc>https://ww1.thedevnews.ga/queda-de-rocha-em-capitolio-deixa-10-mortos/</loc>
+<loc>https://www1.thedevnews.ga/queda-de-rocha-em-capitolio-deixa-10-mortos/</loc>
 <lastmod>2022-01-11T00:29:03-03:00</lastmod>
 <image:image>
-<image:loc>https://ww1.thedevnews.ga/media/posts/1/WhatsApp-Image-2022-01-08-at-18.01.36.jpeg</image:loc>
+<image:loc>https://www1.thedevnews.ga/media/posts/1/WhatsApp-Image-2022-01-08-at-18.01.36.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://ww1.thedevnews.ga/vallourec-e-multada-apos-queda-de-barragem/</loc>
+<loc>https://www1.thedevnews.ga/vallourec-e-multada-apos-queda-de-barragem/</loc>
 <lastmod>2022-01-11T23:45:07-03:00</lastmod>
 <image:image>
-<image:loc>https://ww1.thedevnews.ga/media/posts/3/barragem.jpg</image:loc>
+<image:loc>https://www1.thedevnews.ga/media/posts/3/barragem.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

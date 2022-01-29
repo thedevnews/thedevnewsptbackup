@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>TheDev News Brasil</title>
-    <link href="https://ww1.thedevnews.ga/feed.xml" rel="self" />
-    <link href="https://ww1.thedevnews.ga" />
+    <title>TheDev News Brasil Backup</title>
+    <link href="https://www1.thedevnews.ga/feed.xml" rel="self" />
+    <link href="https://www1.thedevnews.ga" />
     <updated>2022-01-11T23:45:07-03:00</updated>
     <author>
         <name>TheDev News</name>
     </author>
-    <id>https://ww1.thedevnews.ga</id>
+    <id>https://www1.thedevnews.ga</id>
 
     <entry>
         <title>Vallourec é multada após queda de barragem.</title>
         <author>
             <name>TheDev News</name>
         </author>
-        <link href="https://ww1.thedevnews.ga/vallourec-e-multada-apos-queda-de-barragem/"/>
-        <id>https://ww1.thedevnews.ga/vallourec-e-multada-apos-queda-de-barragem/</id>
+        <link href="https://www1.thedevnews.ga/vallourec-e-multada-apos-queda-de-barragem/"/>
+        <id>https://www1.thedevnews.ga/vallourec-e-multada-apos-queda-de-barragem/</id>
             <category term="Chuvas"/>
             <category term="Brasil"/>
 
         <updated>2022-01-11T23:45:07-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://ww1.thedevnews.ga/media/posts/3/barragem.jpg" alt="" />
+                        <img src="https://www1.thedevnews.ga/media/posts/3/barragem.jpg" alt="" />
                     A empresa Vallourec foi multada em cerca de 288 milhões de reais pelo Governo de Minas Gerais, após o transbordamento de uma dique da Mina Pau Branco em Nova Lima, região metropolitana de Belo Horizonte, no último sábado, dia 8. O transbordamento do Dique fez&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ww1.thedevnews.ga/media/posts/3/barragem.jpg" alt="" />
+                    <img src="https://www1.thedevnews.ga/media/posts/3/barragem.jpg" alt="" />
                 <p>A empresa Vallourec foi multada em cerca de 288 milhões de reais pelo Governo de Minas Gerais, após o transbordamento de uma dique da Mina Pau Branco em Nova Lima, região metropolitana de Belo Horizonte, no último sábado, dia 8.</p>
 <figure class="post__image" ><img loading="lazy" src="https://s2.glbimg.com/NTYXiorpQRjxGX_9HxzpYxEp2Vg=/0x0:431x613/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/B/D/F9ERoPQM2d8VbkeGBxQg/barragem2.jpg" data-is-external-image="true"  alt="" width="1008" height="1434">
 <figcaption >Deslizamento que provocou transbordamento do Dique Lisa da Mina Pau Branco<br>Foto: Bruno Costalonga Ferrete/Divulgação</figcaption>
@@ -58,20 +58,20 @@
         <author>
             <name>TheDev News</name>
         </author>
-        <link href="https://ww1.thedevnews.ga/queda-de-rocha-em-capitolio-deixa-10-mortos/"/>
-        <id>https://ww1.thedevnews.ga/queda-de-rocha-em-capitolio-deixa-10-mortos/</id>
+        <link href="https://www1.thedevnews.ga/queda-de-rocha-em-capitolio-deixa-10-mortos/"/>
+        <id>https://www1.thedevnews.ga/queda-de-rocha-em-capitolio-deixa-10-mortos/</id>
             <category term="Brasil"/>
 
         <updated>2022-01-11T00:29:03-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://ww1.thedevnews.ga/media/posts/1/WhatsApp-Image-2022-01-08-at-18.01.36.jpeg" alt="" />
+                        <img src="https://www1.thedevnews.ga/media/posts/1/WhatsApp-Image-2022-01-08-at-18.01.36.jpeg" alt="" />
                     Uma queda de rochas deixou 10 mortos além de aproximadamente 32 feridos na cidade de Capitólio em Minas Gerais. “Sofremos hoje a dor de uma tragédia em nosso Estado, devido às fortes chuvas, que provocaram o desprendimento de um paredão de pedras no lago de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ww1.thedevnews.ga/media/posts/1/WhatsApp-Image-2022-01-08-at-18.01.36.jpeg" alt="" />
+                    <img src="https://www1.thedevnews.ga/media/posts/1/WhatsApp-Image-2022-01-08-at-18.01.36.jpeg" alt="" />
                 <p>Uma queda de rochas deixou 10 mortos além de aproximadamente 32 feridos na cidade de Capitólio em Minas Gerais.</p>
 <figure class="post__image" ><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/pt/0/04/Deslizamento_em_Capit%C3%B3lio.jpeg" data-is-external-image="true"  alt="Vídeo gravado com momentos antes do acidente" width="463" height="500">
 <figcaption >Vídeo gravado por turista momentos antes do acidente</figcaption>
